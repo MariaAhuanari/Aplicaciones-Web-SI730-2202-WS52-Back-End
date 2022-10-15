@@ -1,0 +1,34 @@
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Domain.deps.json
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Domain.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Domain.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Infraestructure.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Infraestructure.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.csproj.AssemblyReference.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.AssemblyInfoInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.AssemblyInfo.cs
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.csproj.CoreCompileInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.csproj.CopyComplete
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\refint\LearningCenter.Domain.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\obj\Debug\net6.0\ref\LearningCenter.Domain.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Shared1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Domain.deps.json
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Domain.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Domain.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Infraestructure.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Infraestructure.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\bin\Debug\net6.0\LearningCenter.Shared1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.csproj.AssemblyReference.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.AssemblyInfoInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.AssemblyInfo.cs
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.csproj.CoreCompileInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.csproj.CopyComplete
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\refint\LearningCenter.Domain.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\LearningCenter.Domain.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Domain\obj\Debug\net6.0\ref\LearningCenter.Domain.dll

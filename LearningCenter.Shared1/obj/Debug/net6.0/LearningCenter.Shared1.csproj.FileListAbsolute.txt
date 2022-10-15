@@ -1,0 +1,24 @@
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\bin\Debug\net6.0\LearningCenter.Shared1.deps.json
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\bin\Debug\net6.0\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\bin\Debug\net6.0\LearningCenter.Shared1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.csproj.AssemblyReference.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.AssemblyInfoInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.AssemblyInfo.cs
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.csproj.CoreCompileInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\obj\Debug\net6.0\refint\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.Shared1\obj\Debug\net6.0\ref\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\bin\Debug\net6.0\LearningCenter.Shared1.deps.json
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\bin\Debug\net6.0\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\bin\Debug\net6.0\LearningCenter.Shared1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.csproj.AssemblyReference.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.AssemblyInfoInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.AssemblyInfo.cs
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.csproj.CoreCompileInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\obj\Debug\net6.0\refint\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\obj\Debug\net6.0\LearningCenter.Shared1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.Shared1\obj\Debug\net6.0\ref\LearningCenter.Shared1.dll

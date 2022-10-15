@@ -1,0 +1,506 @@
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\appsettings.Development.json
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\appsettings.json
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.exe
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.deps.json
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.runtimeconfig.json
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Humanizer.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\MessagePack.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Build.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\NuGet.Common.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.csproj.AssemblyReference.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.AssemblyInfoInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.AssemblyInfo.cs
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.csproj.CoreCompileInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.MvcApplicationPartsAssemblyInfo.cs
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.MvcApplicationPartsAssemblyInfo.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\staticwebassets.build.json
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\staticwebassets.development.json
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\scopedcss\bundle\LearningCenter.API1.styles.css
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.csproj.CopyComplete
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\refint\LearningCenter.API1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.genruntimeconfig.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\obj\Debug\net6.0\ref\LearningCenter.API1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Domain.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Infraestructure.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Domain.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Infraestructure.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Shared1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\SEMANA 1\UPC-aplicaciones\LearningCenter\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\appsettings.Development.json
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\appsettings.json
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.exe
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.deps.json
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.runtimeconfig.json
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.API1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Humanizer.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\MessagePack.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Build.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\NuGet.Common.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Domain.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Infraestructure.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Shared1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Domain.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Infraestructure.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\bin\Debug\net6.0\LearningCenter.Shared1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.csproj.AssemblyReference.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.AssemblyInfoInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.AssemblyInfo.cs
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.csproj.CoreCompileInputs.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.MvcApplicationPartsAssemblyInfo.cs
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.MvcApplicationPartsAssemblyInfo.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\staticwebassets.build.json
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\staticwebassets.development.json
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\scopedcss\bundle\LearningCenter.API1.styles.css
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.csproj.CopyComplete
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\refint\LearningCenter.API1.dll
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.pdb
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\LearningCenter.API1.genruntimeconfig.cache
+D:\CICLO_V_ISW\APLICACIONES WEB\Aplicaciones-Web-SI730-2202-WS52-Back-End-master\LearningCenter.API1\obj\Debug\net6.0\ref\LearningCenter.API1.dll
